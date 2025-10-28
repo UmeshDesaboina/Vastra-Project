@@ -24,7 +24,7 @@ const Footer = () => {
           <Col md={3} sm={6}>
             <h3 className="footer-title">Contact Us</h3>
             <p>Email: info@vastrastore.com</p>
-            <p>Phone: +91 9876543210</p>
+            <p>Phone: +91 7997909061</p>
           </Col>
         </Row>
         <Row>
